@@ -1,1 +1,0 @@
-var apiKey = '6d2164ce2a42edc2af86c8f12a5bc5d5'
