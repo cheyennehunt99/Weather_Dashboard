@@ -29,7 +29,7 @@ Project is created with:
 
 ## Summary
 
-- This project is a 5 Day Weather Forecast a user can use with their own API key. I hid my own API key but if you plug in your own key your results should match the screenshot. A user can get a free API key by creating a free account with Open Weather Maps.
+- This project is a 5 Day Weather Forecast a user can use with their own API key (Highly recommended!). I hid my own API key in my config.js file but a user can get a free API key by creating a free account with Open Weather Maps.
 
 ## Author
 
